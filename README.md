@@ -7,12 +7,19 @@ This project uses the [The Telemark Assembler (TASM)](http://www.cpcalive.com/do
 
 To assembly this project, either use the zxasm.bat file:
 
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+
 ```bash
 zxasm ballbat
 ```
 
 
 or... assemble with the following options:
+
 ```bash
  tasm -80 -b -s ballbat.asm ballbat.p
 ```
