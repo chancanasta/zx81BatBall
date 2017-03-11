@@ -1,7 +1,7 @@
 # zx81BatBall
 Simple ZX81 assembly language version of the standard 'ball , bat , brick' game
 
-### How to assembe
+### How to assemble
 
 This project uses the [The Telemark Assembler (TASM)](http://www.cpcalive.com/docs/TASMMAN.HTM) - a cross assembler for DOS and Linus.
 
